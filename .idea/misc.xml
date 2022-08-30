@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_App/App_Music/app/src/main/res/drawable/dia.xml" value="0.2115" />
+        <entry key="..\:/Android_App/App_Music/app/src/main/res/drawable/dia2.xml" value="0.2115" />
+        <entry key="..\:/Android_App/App_Music/app/src/main/res/drawable/mau1.xml" value="0.167" />
+        <entry key="..\:/Android_App/App_Music/app/src/main/res/drawable/mau2.xml" value="0.167" />
+        <entry key="..\:/Android_App/App_Music/app/src/main/res/drawable/music.xml" value="0.155" />
+        <entry key="..\:/Android_App/App_Music/app/src/main/res/drawable/play.xml" value="0.167" />
+        <entry key="..\:/Android_App/App_Music/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Android_App/App_Music/app/src/main/res/layout/activity_play_music.xml" value="0.18" />
+        <entry key="..\:/Android_App/App_Music/app/src/main/res/layout/item_list.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
